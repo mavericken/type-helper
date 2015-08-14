@@ -1,0 +1,13 @@
+{
+  "name": "type-helper",
+  "version": "0.0.0",
+  "description": "type-helper",
+  "main": "type-helper.js",
+  "author": {
+    "name": "Rick",
+    "email": ""
+  },
+  "dependencies": {
+    "any-promise": "^0.1.0"
+  }
+}
